@@ -1,0 +1,3 @@
+//JavaScript was initially created as a browser-only language, but now it is used in many other environments as well.
+//At this moment, JavaScript has a unique position as the most widely-adopted browser language with full integration with HTML/CSS.
+//There are many languages that get “transpiled” to JavaScript and provide certain features. It is recommended to take a look at them, at least briefly, after mastering JavaScript.
